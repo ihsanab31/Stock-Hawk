@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_content_new.png",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\drawable-hdpi\\ic_action_content_new.png"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_add_white_24dp.png",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\drawable-hdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_attach_money_white_24dp.png",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\drawable-hdpi\\ic_attach_money_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    }
+]

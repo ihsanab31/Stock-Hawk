@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\touch_selector_dark.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\drawable-v21\\touch_selector_dark.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    }
+]

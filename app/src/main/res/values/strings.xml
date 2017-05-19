@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name" translatable="true">Stock Hawk</string>
+
+    <string name="action_example" translatable="true">Example action</string>
+
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="action_change_units" translatable="true">Change Units</string>
+    <string name="symbol_search" translatable="true">Symbol Search</string>
+    <string name="content_test" translatable="true">Search for a Stock Symbol</string>
+    <string name="input_hint" translatable="true">FB</string>
+    <string name="input_prefill" translatable="true"></string>
+    <string name="network_toast" translatable="true">Uh-oh! This app requires an internet connection</string>
+    <string name="title_activity_stock_details" translatable="true">StockDetailsActivity</string>
+    <string name="section_format" translatable="true">Hello World from section: %1$d</string>
+    <string name="error_stock_not_found" translatable="true">No Stock found by this name.</string>
+    <string name="error_stock_already_saved" translatable="true">This stock is already saved!</string>
+    <string name="empty_message" translatable="true">No Data is Available</string>
+    <string name="add_stock" translatable="true">Add new stock</string>
+
+    <string name="name" translatable="true">Name</string>
+    <string name="high" translatable="true">High</string>
+    <string name="low" translatable="true">Low</string>
+    <string name="open" translatable="true">Open</string>
+
+    <string name="symbol_label" translatable="false">symbol</string>
+    <string name="symbol_bundle" translatable="false">symb</string>
+
+    <string name="details" translatable="true">DETAILS</string>
+    <string name="charts" translatable="true">CHARTS</string>
+    <string name="news" translatable="true">NEWS</string>
+
+    <string name="stock_intent_service" translatable="true">Stock Intent Service</string>
+    <string name="error_batch" translatable="true">Error applying batch insert</string>
+    <string name="setBackgroundResource" translatable="false">setBackgroundResource</string>
+</resources>

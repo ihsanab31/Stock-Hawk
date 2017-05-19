@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_multichoice.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_listitem_multichoice.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_dialog_basic.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_singlechoice.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_quote.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\list_item_quote.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_news.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\card_news.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_second.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_main_details.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\grid_main_details.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_stocks.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\activity_my_stocks.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_third.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\fragment_third.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_stocks.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\widget_stocks.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_line_graph.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\activity_line_graph.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_extra_details.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\grid_extra_details.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_actionbuttons.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_dialog_list.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_dialog_input.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_first.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_details.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\layout\\activity_stock_details.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_custom.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_dialog_custom.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_stub_titleframe.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\2cd5363844437cedfb648d03a179135dcecd42d1\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c24e563253dd0fee5c20908699080475d0a5b843\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem.xml",
+        "source": "C:\\Users\\iihsa\\.android\\build-cache\\c5ca06f2b2af3d06950fee5e7e45c895c754ed95\\output\\res\\layout\\md_listitem.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue May 16 16:21:58 ICT 2017
+base.0=D\:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6498765f2956ce711e6848de69809d830ff6669c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5eb648968849418cf0bc132c244a8889472dce0\\classes.dex
+base.1=D\:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5eb648968849418cf0bc132c244a8889472dce0
+file.0=D\:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6498765f2956ce711e6848de69809d830ff6669c\\classes.dex

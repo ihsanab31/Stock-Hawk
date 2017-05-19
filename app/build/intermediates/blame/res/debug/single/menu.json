@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\my_stocks.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\menu\\my_stocks.xml"
+    },
+    {
+        "merged": "D:\\Code Android\\StockHawk-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "D:\\Code Android\\StockHawk-master\\app\\src\\main\\res\\menu\\global.xml"
+    }
+]

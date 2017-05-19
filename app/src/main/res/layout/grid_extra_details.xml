@@ -1,0 +1,116 @@
+<android.support.v7.widget.GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools"
+    app:columnCount="2">
+
+    <Space
+        android:layout_height="50dp"
+        app:layout_columnSpan="2"/>
+
+    <TextView
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        app:layout_columnWeight="1"
+        android:gravity="start"
+        app:layout_gravity="fill_horizontal"
+        android:textSize="26sp"
+        android:text="@string/name"
+        tool:fontFamily="sans-serif"/>
+
+    <TextView
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:id="@+id/name"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        app:layout_columnWeight="1"
+        android:gravity="start"
+        app:layout_gravity="fill_horizontal"
+        android:textSize="26sp"
+        android:textColor="@android:color/background_light"
+        tool:fontFamily="sans-serif"/>
+
+    <TextView
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        app:layout_columnWeight="1"
+        android:gravity="start"
+        app:layout_gravity="fill_horizontal"
+        android:textSize="26sp"
+        android:text="@string/high"
+        tool:fontFamily="sans-serif"/>
+
+    <TextView
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:id="@+id/high"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        app:layout_columnWeight="1"
+        android:gravity="start"
+        app:layout_gravity="fill_horizontal"
+        android:textSize="26sp"
+        android:textColor="@android:color/background_light"
+        tool:fontFamily="sans-serif"/>
+
+    <TextView
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        app:layout_columnWeight="1"
+        android:gravity="start"
+        app:layout_gravity="fill_horizontal"
+        android:textSize="26sp"
+        android:text="@string/low"
+        tool:fontFamily="sans-serif"/>
+
+    <TextView
+        android:id="@+id/low"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        app:layout_columnWeight="1"
+        android:gravity="start"
+        app:layout_gravity="fill_horizontal"
+        android:textColor="@android:color/background_light"
+        android:textSize="26sp"
+        tool:fontFamily="sans-serif"/>
+
+    <TextView
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:layout_width="0dp"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_height="40dp"
+        app:layout_columnWeight="1"
+        android:gravity="start"
+        app:layout_gravity="fill_horizontal"
+        android:textSize="26sp"
+        android:text="@string/open"
+        tool:fontFamily="sans-serif"/>
+
+    <TextView
+        android:id="@+id/open"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        app:layout_columnWeight="1"
+        android:textColor="@android:color/background_light"
+        android:gravity="start"
+        app:layout_gravity="fill_horizontal"
+        android:textSize="26sp"
+        tool:fontFamily="sans-serif"/>
+
+    <Space
+        android:layout_height="50dp"
+        app:layout_columnSpan="2"/>
+
+</android.support.v7.widget.GridLayout>
